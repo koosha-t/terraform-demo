@@ -10,3 +10,5 @@ variable env_prefix {}
 variable allowed_ssh_ips {
   type = list
 }
+
+variable instance_type {}
