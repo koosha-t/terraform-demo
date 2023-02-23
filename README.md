@@ -28,7 +28,7 @@ You'll then be provided with step-by-step instructinos to set your aws credentia
 Terraform will automatically pick your credentials everytime you use it.
 
 ## Running & Building the Infrastructure in AWS
- 1. Initializing a new terraform project via running the following command from the root dir:
+ 1. Initializing a new terraform project via running the following command from the tf dir:
     ```shell
     $ tarraform init
     ```
