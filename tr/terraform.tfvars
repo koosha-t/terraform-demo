@@ -5,6 +5,7 @@ avail_zone = "ca-central-1a"
 env_prefix = "dev"
 allowed_ssh_ips = ["99.233.170.151/32"]
 instance_type = "t2.micro"
+public_key_location = "/Users/ktahmasebipour/.ssh/id_rsa.pub"
 
 
 
