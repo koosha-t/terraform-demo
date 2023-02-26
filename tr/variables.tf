@@ -1,7 +1,6 @@
 
+variable subnet_cidr_block{}
 variable vpc_cidr_block {}
-
-variable subnet_cidr_block {}
 
 variable avail_zone {}
 
@@ -14,3 +13,6 @@ variable allowed_ssh_ips {
 variable instance_type {}
 
 variable public_key_location {}
+
+variable image_name {}
+
