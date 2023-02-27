@@ -41,4 +41,8 @@ Terraform will automatically pick your credentials everytime you use it.
     $ terraform apply
     ```
 
-    
+## Using Existing Terraform Module
+The main branch contains modules (i.e. subnet and webserver) customly created by myself. If you want to see an example of using an existing subnet module from Terraform AWS regsitry, please see the *existing_modules* branch.
+
+## Terraform Provisioners
+Though using provisioners is not reommended, however, if you want to see usage examples, please see the *provisioners* branch.
